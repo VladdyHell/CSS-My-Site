@@ -134,12 +134,12 @@ p
 {
 	position: absolute;
 	right: 300px;
-	top: 50px;
+	top: 40px;
 }
 .bottom-cloud
 {
 	bottom: 300px;
-	left: 300px;
+	left: 250px;
 	position: absolute;
 }
 .mountain
